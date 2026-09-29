@@ -1,5 +1,5 @@
 
-# 📘 Tarefa: Fundamentos de Python
+# 📘 Assignment: Python Basics
 
 ## 🎯 Objective
 
