@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Persist FastAPI data with SQLite and Python",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
